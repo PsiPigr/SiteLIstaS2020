@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823369717227",
+    "firebase_url": "https://sitelistas2020.firebaseio.com",
+    "project_id": "sitelistas2020",
+    "storage_bucket": "sitelistas2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823369717227:android:b7a82f7b95892f39f235ae",
+        "android_client_info": {
+          "package_name": "com.esad.sitelistas2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823369717227-k3ooa0315ci5qupt7h6o05p1qkebmh36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esad.sitelistas2020",
+            "certificate_hash": "3fc3acb19e3e20ef0fa677de4c0adc0815b966c2"
+          }
+        },
+        {
+          "client_id": "823369717227-lpr83achug2ch8llcln9eldtekj63ej6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkgfrXGmSFGFc0JPUV6P7X7wAtN5fm6xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823369717227-lpr83achug2ch8llcln9eldtekj63ej6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
